@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+
+p{
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 3;
+    background-color: lightgray;
+}
