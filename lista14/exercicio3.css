@@ -1,0 +1,18 @@
+div{
+    background-color: #CAF3FF;
+    border-color: red;
+    border-style: solid;
+    border-width: 0 10px 0 10px;
+    padding: 20px;
+    margin: 50px;
+}
+
+h1{
+    font-size: 30px;
+    border-bottom: 1px solid #FF3300;
+}
+
+p{
+    line-height: 200%;
+    font-size: 14px;
+}
